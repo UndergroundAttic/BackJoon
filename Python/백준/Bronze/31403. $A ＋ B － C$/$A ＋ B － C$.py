@@ -1,0 +1,1 @@
+a,b,c=map(int,open(0));print(f"{a+b-c}",int(f"{a}{b}")-c,sep="\n")
