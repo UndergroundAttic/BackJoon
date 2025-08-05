@@ -1,0 +1,1 @@
+i=list(map(int, open(0)));print(m:=max(i),i.index(m)+1,sep="\n")
